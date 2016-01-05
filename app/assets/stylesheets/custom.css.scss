@@ -23,13 +23,14 @@ $navbar-default-bg: black;
 }
 
 .jumbotron {
-	background-image: asset-url('new_cover_page.png');
+	background-image: asset-url('alpha1.jpg');
 	background-size: cover;
-	hight: 550px;
+	color: white;
+	height: 400px;
 }
 
 .jumbotron h1 {
-	color: #fff;
+	color: white;
 	text-align: center;
 	margin-bottom: 30px;
 	letter-spacing: -1px;
@@ -42,7 +43,7 @@ $navbar-default-bg: black;
 }
 
 footer {
-	maring-top: 45px;
+	margin-top: 45px;
 	padding-top: 5px;
 	border-top: 1px solid #eaeaea;
 	color: #777;
